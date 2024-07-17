@@ -1,0 +1,55 @@
+.image {
+    background-image: url(./asset/image.jpg);
+    text-align: center;
+}
+
+.photo {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    display: grid;
+   
+}
+.link {
+    text-align: right;
+}
+nav {
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+.home {
+    text-align: right;
+}
+button {
+    background-color: brown;
+}
+h2 {
+    color: yellow;
+}
+p {
+    color: gray;
+}
+li {
+    color: white;
+}
+ .h1 {
+    color: blue;
+    text-align: center;
+ }
+
+ #link {
+    text-align: right;
+ }
+ .div {
+    background-color: burlywood;
+ }
+ ul li p {
+    color: gold;
+ }
+ .img {
+    text-align: center;
+ }
